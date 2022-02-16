@@ -1,0 +1,15 @@
+1. Создать новую папку проекта.
+2. Git init
+3. Create .gitignore
+4. npm init
+(Настройки по-умолчанию: npm init -y)
+5. Добавить private: true
+6. Добавить папку src, index.js index.html
+7. Установить webpack, webpack-cli
+(ОБЯЗАТЕЛЬНО! в devDependencies - флаг -D или --save-dev)
+8. Initial commit
+9. Кодить =)
+10. Собирать через webpack
+- Создать файл настроек webpack.config.js
+- Подключить лоадеры для css, html, babel
+- Установить и настроить dev-server
