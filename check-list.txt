@@ -13,3 +13,5 @@
 - Создать файл настроек webpack.config.js
 - Подключить лоадеры для css, html, babel
 - Установить и настроить dev-server
+
+npm install --save-dev html-webpack-plugin

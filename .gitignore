@@ -4,3 +4,4 @@ node_modules
 dist/
 bundle/
 build/
+package-lock.json
